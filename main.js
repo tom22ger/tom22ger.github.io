@@ -17,9 +17,6 @@ Element.prototype.removeClass = function(cl) {
 }
 
 function showBlock(id) {
-	if (document.getElementById("button")) {
-		
-	}
 	var showing = document.getElementsByClassName("showing");
 	console.log(showing);
 	while (showing.length > 0) {
