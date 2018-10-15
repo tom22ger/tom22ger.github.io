@@ -16,6 +16,8 @@ Element.prototype.removeClass = function(cl) {
 	this.classList.remove(cl);
 }
 
+var TABS = ["contact","school","work","skills","activities","hobbies"];
+
 function showBlock(id) {
 	var showing = document.getElementsByClassName("showing");
 	console.log(showing);
@@ -29,7 +31,15 @@ function showBlock(id) {
 	}*/
 	var button = document.getElementById(id + "Tab");
 	var block = document.getElementById(id + "Block");
+	var ccard = document.getElementById("contactCard");
+	var proj = document.getElementById("projectLink");
+	for (var i in TABS) {
+		ccard.removeClass(TABS[i]);
+		proj.removeClass(TABS[i]);
+	}
 	button.addClass("showing");
 	block.addClass("showing");
+	ccard.addClass(id);
+	proj.addClass(id);
 
 }
