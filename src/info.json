@@ -1,0 +1,119 @@
+{
+  "bio": "aspiring developer, designer, and digital-first journalist",
+  "work": {
+    "section": "Work Experience:",
+    "styles": "",
+    "content": "<h5>Software Developer I</h5><h6>at <span>Redfin</span></h6><p><em>full-time offer rescinded due to COVID-19’s effect on the housing market</em></p><h5>Online Editor</h5><h6>at <span>Daily Bruin</span></h6><h5>Winter 2019 - Present</h5><p><b>Project Management:</b> Oversee 4 project leads and their teams (~35 developers) in the creation of websites, internal tools, and data-driven content to support the digital form of the newspaper.<br /><b>Full-Stack Engineering and Design:</b> Directly lead a group of 6 interns in rebuilding and redesigning our main website’s infrastructure and user-experience.<br /><b>Teaching and Training:</b> Help interns develop their professional web development skills through peer programming and code reviews.<br /><b>User Growth:</b> Use Analytics platforms, SEO, and Social Media strategies to promote a large-scale website that has over 4,000,000 unique pageviews per year.</p><h5>Supervisor</h5><h6>at <span>UCLA Computer Store</span></h6><h5>Fall 2017 - Present</h5><p><b>Team Management:</b> Supervise ~18 employees in a retailenvironment through task management, scheduling, and conflict resolution.<br /><b>Hiring and Training:</b> Conduct the full hiring process fromapplications and interviews through onboarding and training.</p>"
+  },
+  "education": {
+    "section": "Education:",
+    "styles": "& li {font-family: 'Barlow Condensed'}",
+    "content": "<h5>UCLA <span>(University of California - Los Angeles)</span></h5><h6><span>Computer Science</span> and <span>Lingusitics</span></h6><h5>Fall 2017 - Spring 2020</h5><p><span>GPA:</span> 3.90<br /> <span>Relevant Coursework:</span><ul><li>Computational Lingusitics</li><li>Automata Theory</li><li>Programming Languages</li></ul></p>"
+  },
+  "activities": {
+    "section": "Activities:",
+    "styles": "& ul { padding-left: 4px;}",
+    "content": "<ul><li>Member of UCLA Men's Ultimate Frisbee Team<li>Receipient of UCLA Alumni Association scholarship</li><li>Volunteer for UCLA Housing and Bruin Overnight Program</li></li></ul>"
+  },
+  "hobbies": {
+    "section": "Hobbies:",
+    "styles": "& p { margin-left: 0;}",
+    "content": "<p>ceramics,<br/>screenwriting,<br/>yelping,<br/>language learning</p>"
+  },
+  "skills": {
+    "coding": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "PHP",
+      "SQL",
+      "Mongo",
+      "Wordpress",
+      "C/C++",
+      "Java",
+      "Bash",
+      "Haskell",
+      "Lisp",
+      "Git"
+    ],
+    "deisgn": ["Figma", "Sketch", "Illustrator", "GIMP"],
+    "language": ["Mandarin Chinese", "Italian", "French", "German"]
+  },
+  "projects": [
+    {
+      "name": "dailybruin.com",
+      "image": "assets/dailybruin.png",
+      "flavor": "the award-wining digital home of UCLA's university newspaper, the Daily Bruin",
+      "explainer": "In my time as Online Editor of the Daily Bruin, my main project has been to create a ground-up redesign of dailybruin.com to use modern frameworks like React and Next.js, while paving the way for our own custom CMS.<br/><br/>This project took me over a year and a half to design, develop, and test with the help of my team of 6 interns. I am so proud of this project and I have learned an imcredible amount about what it takes to develop a modern website, along with how to analytics, SEO, social-media marketing, and server maintenance.<br/><br/>I also wrote a brief article about our process published <a href='https://dailybruin.com/2020/06/04/behind-the-bruin-how-we-re-designed-the-website-to-offer-a-more-digital-forward-experience' target='_blank' style='color: #0080c6;'>here</a>",
+      "color": "#0080c6",
+      "link": "https://dailybruin.com",
+      "tags": [
+        "HTML/CSS",
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Node.js",
+        "PHP",
+        "RESTful API",
+        "Nginx"
+      ]
+    },
+    {
+      "name": "2020 Democratic Primaries Package",
+      "image": "assets/primaries.png",
+      "flavor": "an interactive page for the Daily Bruin showcasing the different democratic candidates and helping students",
+      "explainer": "This project is one of my favorites mainly because of just how stressful the process was! I remember sitting in the office with my coeditors putting the finishing touches on this page when we learned that Pete Buttigieg had suddenly dropped out of the race just hours before our launch.<br/><br/>It was a crazy rush to try and adapt our interactive quiz to suddenly support only a handful of candidates, and to make our page's layout designed to acoomadate the quickly dwindling number of candidates.<br/><br/>This project was really a mad dash for all of us and it required a lot of coordination among several parts and people of the paper. It was a late night, but one I'll always remember!",
+      "color": "#213454",
+      "link": "https://features.dailybruin.com/2020/democratic-primary-elections/",
+      "tags": ["HTML/CSS", "JavaScript", "React", "Mongo"]
+    },
+    {
+      "name": "COVID-19 Dashboard",
+      "image": "assets/covid.png",
+      "flavor": "built alone in less than 24 hours, this is an updating hub for all coronavirus news at UCLA",
+      "explainer": "In the week where coronavirus panic first swept across our campus, it felt like there was a new email from administration with some new announcement. As a student, I felt so confused as the situation seemed to be constantly changing. As a newspaper, it felt like our responsibility to help keep the public informed. I built this little page to help gather the information and content that our paper was already producing, while also creating a place to highlight the most important facts about the virus.",
+      "color": "#000000",
+      "link": "https://features.dailybruin.com/2020/covid-19/",
+      "tags": ["HTML/CSS", "JavaScript", "React", "RESTful API"]
+    },
+    {
+      "name": "DojoVote",
+      "image": "assets/dojovote.svg",
+      "flavor": "a polling platform that allows you to generate and share polls all around the world",
+      "explainer": "DojoVote is a web application that makes polling fun. Create a Dojo of up to 100 items that can be shared over a simple link, then make one-vs-one comparsions to find out the world's rankings of anything you can imagine!<br/><br/>This project was my first that included server-side scripting and databases to provide a shared interactive experience. It's written in very complicated JavaScript and PHP, becuase I was just starting my web-programming journey and didn't know about the wonderful world of packages and frameworks.<br/><br/>Unfortunately, I had to take the site down as my  Azure and AWS free-trials expired and the mySQL server was becoming too expensive to support. But you can check out the GitHub repository below! I relaly hope to revisit the idea someday",
+      "color": "#ff4081",
+      "link": "https://github.com/tom22ger/dojovote",
+      "tags": ["HTML/CSS", "JavaScript", "PHP", "mySQL", "AWS"]
+    },
+    {
+      "name": "FAB for Drive Chrome Extension",
+      "image": "assets/FABforDrivePromoIcon.png",
+      "flavor": "add a shortcut to create your favorite file types in Google Drive",
+      "explainer": "This extension adds an additional button that hovers over your Google Drive window that allows for easy access to create new documents, spreadsheets, and more.<br><br>Featuring a floating action button that blends right in with Google's Material Design principles.<br><br>This project is available for free on the Chrome Web Store, feel free to download it through the link below!",
+      "color": "#f44246",
+      "link": "https://chrome.google.com/webstore/detail/floating-action-button-fo/gcmplbpmeilihjhdolgikjoohcffdhio",
+      "tags": ["HTML/CSS", "JavaScript", "JSON", "Chrome Exstensions"]
+    },
+    {
+      "name": "amiGO (Mockup)",
+      "image": "assets/amiGOPromo.png",
+      "flavor": "a small carpool app design concept",
+      "explainer": "This is just a little interactive prototype for a Carpool app that I started designing. It's very much a work in progress!",
+      "color": "#64C055",
+      "link": "https://www.figma.com/proto/XBbU5rbjhhcE8mVC3jdSCGLR/amiGO?node-id=1%3A3&viewport=-214%2C-367%2C0.874913&scaling=scale-down",
+      "tags": ["UI/UX", "Figma/Sketch"]
+    },
+    {
+      "name": "CodeConvert",
+      "image": "assets/CodeConvertPreview.png",
+      "flavor": "a decimal, hexadecimal, and binary converting tool",
+      "explainer": "This is a very basic, but fun Javascript WebApp that I created using Material Lite Components. <br><br>I originally made it for myself when a Computer Science course required me to always be converting between the three number formats. <br><br> I hope you can make as much use for it as I did!",
+      "color": "#4158a9",
+      "link": "https://tom22ger.github.io/codeconvert/",
+      "tags": ["HTML/CSS", "JavaScript", "Web Components"]
+    }
+  ]
+}

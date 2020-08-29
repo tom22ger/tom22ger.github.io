@@ -1,0 +1,55 @@
+[
+	{
+		"title":"DojoVote",
+		"image":"Assets/DojoVoteLogo.svg",
+		"flavor":"a polling platform that allows you to generate and share polls all around the world",
+		"description":"DojoVote is a web application that makes polling fun. Create a Dojo of up to 100 items that can be shared over a simple link, then make one-vs-one comparsions to find out the world's rankings of anything you can imagine!<br><br> This project was my most complicated and my personal favorite! It incorporates serverside scripting and databases to provide a shared interactive experience for anyone who wants to use it.  <br><br> I currently have the site hosted through AWS and can be visited at www.dojo.vote so try it for yourself!",
+		"color":"#ff4081",
+		"link":"http://www.dojo.vote",
+		"tagList":[
+			"HTML/CSS",
+			"JavaScript",
+			"mySQL",
+			"PHP"
+		]
+	},
+	{
+		"title":"FAB for Drive Chrome Extension",
+		"image":"Assets/FABforDrivePromoIcon.png",
+		"flavor":"add a shortcut to create your favorite file types in Google Drive",
+		"description":"This extension adds an additional button that hovers over your Google Drive window that allows for easy access to create new documents, spreadsheets, and more.<br><br>Featuring a floating action button that blends right in with Google's Material Design principles.<br><br>This project is available for free on the Chrome Web Store, feel free to download it through the link below!",
+		"color":"#f44246",
+		"link":"https://chrome.google.com/webstore/detail/floating-action-button-fo/gcmplbpmeilihjhdolgikjoohcffdhio",
+		"tagList":[
+			"HTML/CSS",
+			"JavaScript",
+			"JSON",
+			"Chrome"
+		]
+	},
+	{
+		"title":"amiGO (Mockup)",
+		"image":"Assets/amiGOPromo.png",
+		"flavor":"a small carpool app design concept",
+		"description":"This is just a little interactive prototype for a Carpool app that I started designing. It's very much a work in progress!",
+		"color":"#64C055",
+		"link":"https://www.figma.com/proto/XBbU5rbjhhcE8mVC3jdSCGLR/amiGO?node-id=1%3A3&viewport=-214%2C-367%2C0.874913&scaling=scale-down",
+		"tagList":[
+			"UI/UX",
+			"Figma/Sketch"
+		]
+	},
+	{
+		"title":"CodeConvert",
+		"image":"Assets/CodeConvertPreview.png",
+		"flavor":"a decimal, hexadecimal, and binary converting tool",
+		"description":"This is a very basic, but fun Javascript WebApp that I created using Material Lite Components. <br><br>I originally made it for myself when a Computer Science course required me to always be converting between the three number formats. <br><br> I hope you can make as much use for it as I did!",
+		"color":"#4158a9",
+		"link":"https://tom22ger.github.io/codeconvert/",
+		"tagList":[
+			"HTML/CSS",
+			"JavaScript",
+			"Web Components"
+		]
+	}
+]
