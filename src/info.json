@@ -8,7 +8,7 @@
   "education": {
     "section": "Education:",
     "styles": "& li {font-family: 'Barlow Condensed'}",
-    "content": "<h5>UCLA <span>(University of California - Los Angeles)</span></h5><h6><span>Computer Science</span> and <span>Lingusitics</span></h6><h5>Fall 2017 - Spring 2020</h5><p><span>GPA:</span> 3.90<br /> <span>Specialized Coursework:</span><ul><li>Computational Lingusitics</li><li>Automata Theory</li><li>Syntax</li><li>Semantics</li></ul></p>"
+    "content": "<h5>UCLA <span>(University of California - Los Angeles)</span></h5><h6><span>Linguistics</span> and <span>Computer Science</span></h6><h5>Fall 2017 - Spring 2020</h5><p><span>GPA:</span> 3.90 (Magna)<br /> <span>Specialized Coursework:</span><ul><li>Computational Lingusitics</li><li>Automata Theory</li><li>Syntax</li><li>Semantics</li></ul></p>"
   },
   "aboutMe": {
     "section": "About Me:",
