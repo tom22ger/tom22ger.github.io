@@ -65,7 +65,7 @@ export default function BioHeader(props) {
               }
             `}
           >
-            aspiring developer, designer, and digital-first journalist
+            developer, designer, and digital-first journalist
           </h6>
           <div
             css={css`
@@ -100,17 +100,9 @@ export default function BioHeader(props) {
             >
               <a target="_blank" rel="noopener">
                 <img src={house} />
-                Bethesda, Maryland
+                San Francisco, California
               </a>
-              <a href="sms:301-661-3996" target="_blank" rel="noopener">
-                <img src={phone} />
-                (301) 661-3996
-              </a>
-              <a
-                href="mailto:thomasadrian@mac.com"
-                target="_blank"
-                rel="noopener"
-              >
+              <a href="mailto:thomasadrian@mac.com" target="_blank" rel="noopener">
                 <img src={mail} />
                 thomasadrian@mac.com
               </a>
@@ -126,32 +118,16 @@ export default function BioHeader(props) {
                   }
                 `}
               >
-                <a
-                  href="https://twitter.com/tom22ger"
-                  target="_blank"
-                  rel="noopener"
-                >
+                <a href="https://twitter.com/tom22ger" target="_blank" rel="noopener">
                   <img src={twitter} />
                 </a>
-                <a
-                  href="https://instagram.com/tom22ger"
-                  target="_blank"
-                  rel="noopener"
-                >
+                <a href="https://instagram.com/tom22ger" target="_blank" rel="noopener">
                   <img src={instagram} />
                 </a>
-                <a
-                  href="https://github.com/tom22ger"
-                  target="_blank"
-                  rel="noopener"
-                >
+                <a href="https://github.com/tom22ger" target="_blank" rel="noopener">
                   <img src={github} />
                 </a>
-                <a
-                  href="https://linkedin.com/in/tom22ger"
-                  target="_blank"
-                  rel="noopener"
-                >
+                <a href="https://linkedin.com/in/tom22ger" target="_blank" rel="noopener">
                   <img src={linkedin} />
                 </a>
               </div>
@@ -194,11 +170,7 @@ export default function BioHeader(props) {
         >
           <a target="_blank" rel="noopener">
             <img src={house} />
-            Bethesda, Maryland
-          </a>
-          <a href="sms:301-661-3996" target="_blank" rel="noopener">
-            <img src={phone} />
-            (301) 661-3996
+            San Francisco, California
           </a>
           <a href="mailto:thomasadrian@mac.com" target="_blank" rel="noopener">
             <img src={mail} />
@@ -216,32 +188,16 @@ export default function BioHeader(props) {
               }
             `}
           >
-            <a
-              href="https://twitter.com/tom22ger"
-              target="_blank"
-              rel="noopener"
-            >
+            <a href="https://twitter.com/tom22ger" target="_blank" rel="noopener">
               <img src={twitter} />
             </a>
-            <a
-              href="https://instagram.com/tom22ger"
-              target="_blank"
-              rel="noopener"
-            >
+            <a href="https://instagram.com/tom22ger" target="_blank" rel="noopener">
               <img src={instagram} />
             </a>
-            <a
-              href="https://github.com/tom22ger"
-              target="_blank"
-              rel="noopener"
-            >
+            <a href="https://github.com/tom22ger" target="_blank" rel="noopener">
               <img src={github} />
             </a>
-            <a
-              href="https://linkedin.com/in/tom22ger"
-              target="_blank"
-              rel="noopener"
-            >
+            <a href="https://linkedin.com/in/tom22ger" target="_blank" rel="noopener">
               <img src={linkedin} />
             </a>
           </div>

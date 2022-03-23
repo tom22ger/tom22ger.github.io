@@ -9,7 +9,7 @@ function Skill(props) {
         display: inline-block;
         border-radius: 20px;
         font-weight: 700;
-        padding: 2px 8px;
+        padding: 0px 8px 2px;
         line-height: 16px;
         font-size: 12px;
         margin: 4px;

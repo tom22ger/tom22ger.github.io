@@ -33,8 +33,7 @@ function App() {
                 <Infobox {...info.work} />
                 <Infobox {...info.education} />
                 <Skillbox skills={info.skills} />
-                <Infobox {...info.activities} />
-                <Infobox {...info.hobbies} />
+                <Infobox {...info.aboutMe} />
                 <DownloadButtons />
               </div>
             )}
@@ -58,8 +57,7 @@ function App() {
                   }}
                 >
                   <Infobox {...info.education} />
-                  <Infobox {...info.activities} />
-                  <Infobox {...info.hobbies} />
+                  <Infobox {...info.aboutMe} />
                   <DownloadButtons />
                 </div>
               </div>

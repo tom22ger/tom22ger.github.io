@@ -1,45 +1,45 @@
 {
-  "bio": "aspiring developer, designer, and digital-first journalist",
+  "bio": "developer, designer, and digital-first journalist",
   "work": {
     "section": "Work Experience:",
     "styles": "",
-    "content": "<h5>Software Developer I</h5><h6>at <span>Redfin</span></h6><p>Working for the Home Services Team in Frisco, Texas</p><h5>Online Editor</h5><h6>at <span>Daily Bruin</span></h6><h5>Winter 2019 - Present</h5><p><b>Project Management:</b> Oversee 4 project leads and their teams (~35 developers) in the creation of websites, internal tools, and data-driven content to support the digital form of the newspaper.<br /><b>Full-Stack Engineering and Design:</b> Directly lead a group of 6 interns in rebuilding and redesigning our main website’s infrastructure and user-experience.<br /><b>Teaching and Training:</b> Help interns develop their professional web development skills through peer programming and code reviews.<br /><b>User Growth:</b> Use Analytics platforms, SEO, and Social Media strategies to promote a large-scale website that has over 4,000,000 unique pageviews per year.</p><h5>Supervisor</h5><h6>at <span>UCLA Computer Store</span></h6><h5>Fall 2017 - Present</h5><p><b>Team Management:</b> Supervise ~18 employees in a retailenvironment through task management, scheduling, and conflict resolution.<br /><b>Hiring and Training:</b> Conduct the full hiring process fromapplications and interviews through onboarding and training.</p>"
+    "content": "<h5>Software Developer</h5><h6>at <span>Redfin</span></h6><h5>Summer 2020 - Present</h5><p><b>Full-Stack Production Development:</b> Develop, review, test, and deploy full-stack code, architectures, and services to build Redfin's home renovation platform alongside our product team and users.</p><h5>Online Editor</h5><h6>at <span>Daily Bruin</span></h6><h5>Winter 2018 - Summer 2020</h5><p><b>Project Management:</b> Oversee 4 project leads and their teams (~35 developers) in the creation of websites, internal tools, and data-driven content to support the digital form of the newspaper.<br /><b>Full-Stack Engineering and Design:</b> Directly lead a group of 6 interns in rebuilding and redesigning our main website's infrastructure and user-experience.<br /><b>Teaching and Training:</b> Help interns develop their professional web development skills through peer programming and code reviews.<br /><b>User Growth:</b> Use Analytics platforms, SEO, and Social Media strategies to promote a large-scale website that has over 4,000,000 unique pageviews per year.</p><h5>Supervisor</h5><h6>at <span>UCLA Computer Store</span></h6><h5>Fall 2017 - Summer 2020</h5><p><b>Team Management:</b> Supervise ~18 employees in a retailenvironment through task management, scheduling, and conflict resolution.<br /><b>Hiring and Training:</b> Conduct the full hiring process from applications and interviews through onboarding and training.</p>"
   },
   "education": {
     "section": "Education:",
     "styles": "& li {font-family: 'Barlow Condensed'}",
-    "content": "<h5>UCLA <span>(University of California - Los Angeles)</span></h5><h6><span>Computer Science</span> and <span>Lingusitics</span></h6><h5>Fall 2017 - Spring 2020</h5><p><span>GPA:</span> 3.90<br /> <span>Relevant Coursework:</span><ul><li>Computational Lingusitics</li><li>Automata Theory</li><li>Programming Languages</li></ul></p>"
+    "content": "<h5>UCLA <span>(University of California - Los Angeles)</span></h5><h6><span>Computer Science</span> and <span>Lingusitics</span></h6><h5>Fall 2017 - Spring 2020</h5><p><span>GPA:</span> 3.90<br /> <span>Specialized Coursework:</span><ul><li>Computational Lingusitics</li><li>Automata Theory</li><li>Syntax</li><li>Semantics</li></ul></p>"
   },
-  "activities": {
-    "section": "Activities:",
-    "styles": "& ul { padding-left: 4px;}",
-    "content": "<ul><li>Member of UCLA Men's Ultimate Frisbee Team<li>Receipient of UCLA Alumni Association scholarship</li><li>Volunteer for UCLA Housing and Bruin Overnight Program</li></li></ul>"
-  },
-  "hobbies": {
-    "section": "Hobbies:",
+  "aboutMe": {
+    "section": "About Me:",
     "styles": "& p { margin-left: 0;}",
-    "content": "<p>ceramics,<br/>screenwriting,<br/>yelping,<br/>language learning</p>"
+    "content": "<p>I'm looking for a team that's going to match my passion for the product and our users, driving one another to be the best we can be, and having a whole lot of fun doing it.</p><br/><p>Outside of work, you'll find me playing Ultimate Frisbee, brushing up on a second language, or baking a loaf of bread for the week ahead's sandwiches.</p>"
   },
   "skills": {
-    "coding": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
+    "Front End": [
+      "React.js",
+      "React Native",
+      "Next.js | SSR",
       "Node.js",
-      "Next.js",
-      "PHP",
-      "SQL",
-      "Mongo",
-      "Wordpress",
-      "C/C++",
+      "HTML | a11y",
+      "JavaScript | TypeScript",
+      "CSS | LESS | SCSS | Modules"
+    ],
+    "Back End and Traditional": [
       "Java",
-      "Bash",
+      "GraphQL | Apollo Federation",
+      "C | C++",
+      "Conductor",
+      "Kafka Streaming | Samza",
+      "PHP",
+      "SQL | PostgreSQL",
+      "NoSQL | Mongo",
       "Haskell",
       "Lisp",
+      "Bash",
       "Git"
     ],
-    "deisgn": ["Figma", "Sketch", "Illustrator", "GIMP"],
+    "deisgn": ["Figma", "Vector Icons", "Illustrator", "GIMP"],
     "language": ["Mandarin Chinese", "Italian", "French", "German"]
   },
   "projects": [
